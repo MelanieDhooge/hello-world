@@ -1,3 +1,3 @@
 # hello-world
-Learning 
+Learning. 
 It's beautiful day to learn something new
